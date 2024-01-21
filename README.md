@@ -82,12 +82,51 @@ Configuring server <br />
 <br />
 <br />
 <br />
-Taking note of the server's display name and MAC address
+Taking note of the server's display name and MAC address <br />
 <img src="https://i.imgur.com/PaW7yHx.png" height="80%" width="80%"/> 
 <br />
 <br />
 <br />
-<img src="https://i.imgur.com/bLeukCb.png" height="80%" width="80%"/>
+Reserving a DHCP for 'Server0' on the router <br />
+<img src="https://i.imgur.com/swEMCJU.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+DHCP successfully reserved for 'Server0' <br />
+<img src="https://i.imgur.com/wWExTbs.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+Pinging 'Server0' <br />
+<img src="https://i.imgur.com/hFRHQ9n.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+Configuring printer: <br />
+<img src="https://i.imgur.com/Ud19PpM.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+Taking note of the printer's display name and MAC address: <br />
+<img src="https://i.imgur.com/44TSLcQ.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/bDy1TFH.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+Reserving a DHCP for 'Printer0'
+<img src="https://i.imgur.com/IqEZ5yG.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+'Printer0' successfully reserved
+<img src="https://i.imgur.com/47QHsYm.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+<img src="https://i.imgur.com/bDy1TFH.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
 </p>
 
 <!--
