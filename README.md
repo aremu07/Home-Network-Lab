@@ -113,20 +113,18 @@ Taking note of the printer's display name and MAC address: <br />
 <br />
 <br />
 <br />
-Reserving a DHCP for 'Printer0'
+Reserving a DHCP for 'Printer0' <br />
 <img src="https://i.imgur.com/IqEZ5yG.png" height="80%" width="80%"/>
 <br />
 <br />
 <br />
-'Printer0' successfully reserved
+'Printer0' successfully reserved <br />
 <img src="https://i.imgur.com/47QHsYm.png" height="80%" width="80%"/>
 <br />
 <br />
 <br />
-<img src="https://i.imgur.com/bDy1TFH.png" height="80%" width="80%"/>
-<br />
-<br />
-<br />
+All devices successfully connected and connected to the home network! <br />
+<img src="https://i.imgur.com/duiHyal.png" height="80%" width="80%"/>
 </p>
 
 <!--
