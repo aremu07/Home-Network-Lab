@@ -17,32 +17,42 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+End devices: Laptops, Pc, printer, server, smartphone and tablet <br/>
+<img src="https://i.imgur.com/pEmvob5.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Wired connection made between router and pc:  <br/>
+<img src="https://i.imgur.com/NyexsSp.png" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Enabling DHCP to receive network gateway address: <br/>
+<img src="https://i.imgur.com/4dZi70d.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+loging in with default username 'admin' and password 'admin':  <br/>
+<img src="https://i.imgur.com/6H1Uie9.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Configuring the router:  <br/>
+<img src="https://i.imgur.com/2tACndW.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Set network SSID to 'Home WiFi' from 'Default':  <br/>
+<img src="https://i.imgur.com/m7ZyxLW.png" height="80%" width="80%"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Set security protocol/mode to 'WPA2 Personal' from 'Disabled':  <br/>
+<img src="https://i.imgur.com/hVN68B7.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+
 </p>
 
 <!--
