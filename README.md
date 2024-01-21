@@ -52,7 +52,40 @@ Set security protocol/mode to 'WPA2 Personal' from 'Disabled':  <br/>
 <br />
 <br />
 <br />
-
+Set nwetwork passphrase to 'WifiPassword': <br />
+<img src="https://i.imgur.com/OYAmToy.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+Change Router Login password from 'admin' to 'Password': <br />
+<img src="https://i.imgur.com/MKO2xV3.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+Search for 'Home WiFi' on wireless end devices <br />
+<img src="https://imgur.com/Ro96RK6.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+Connect wireless end devices to 'Home WiFi' using the passphrase 'WifiPassword'
+<img src="https://i.imgur.com/QInhvKm.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+All wireless end devices connected: <br />
+<img src="https://i.imgur.com/bLeukCb.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+<img src="https://i.imgur.com/bLeukCb.png" height="80%" width="80%"/>
+<br />
+<br />
+<br />
+<img src="https://i.imgur.com/bLeukCb.png" height="80%" width="80%"/> 
+<br />
+<br />
+<br />
+<img src="https://i.imgur.com/bLeukCb.png" height="80%" width="80%"/>
 </p>
 
 <!--
