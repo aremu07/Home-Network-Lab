@@ -77,11 +77,13 @@ All wireless end devices connected: <br />
 <br />
 <br />
 <br />
-<img src="https://i.imgur.com/bLeukCb.png" height="80%" width="80%"/>
+Configuring server <br />
+<img src="https://i.imgur.com/jCIlgTh.png" height="80%" width="80%"/>
 <br />
 <br />
 <br />
-<img src="https://i.imgur.com/bLeukCb.png" height="80%" width="80%"/> 
+Taking note of the server's display name and MAC address
+<img src="https://i.imgur.com/PaW7yHx.png" height="80%" width="80%"/> 
 <br />
 <br />
 <br />
